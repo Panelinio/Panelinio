@@ -6,3 +6,5 @@ I'm polishing my programming skills
 - email: kacper.tw@wp.pl
 - instagram: @young_panel
 _________________________________________
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Panelinio)](https://git.io/streak-stats)]
