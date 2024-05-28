@@ -7,4 +7,4 @@ I'm polishing my programming skills
 - instagram: @young_panel
 _________________________________________
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Panelinio)](https://git.io/streak-stats)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=Panelinio&theme=shadow-blue)](https://git.io/streak-stats)
