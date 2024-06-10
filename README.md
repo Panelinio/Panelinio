@@ -1,5 +1,6 @@
 # Hello 
 I'm Kacper Twardowski
+
 I'm polishing my programming skills
 
 ## CONTACT:
