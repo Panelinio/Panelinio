@@ -10,6 +10,8 @@ I'm currently studying Computer Science at the WSB Merito Wrocław and I'm curre
 I'm on track for learning more about other programming languages, cybersecurity and graphic design.\
 I like to read books, cook and draw in my free time :D.
 
+My website? Stay tuned ;)
+
 ### Technologies
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
