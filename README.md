@@ -10,8 +10,6 @@ I'm currently studying Computer Science at the WSB merito Wrocław.\
 I'm on track for learning more about other programming languages, cybersecurity and graphic design.\
 I like to read books, cook and draw in my free time :D.\
 
-/*<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>*/
-
 ### Technologies
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
