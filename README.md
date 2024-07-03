@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Kacper
+## Hello there
 
 ### About Me
 
