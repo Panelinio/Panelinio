@@ -8,7 +8,7 @@ I'm working in web technologies but also in Python or C++.\
 My favourite framework is Symfony.\
 I'm currently studying Computer Science at the WSB merito Wrocław.\
 I'm on track for learning more about other programming languages, cybersecurity and graphic design.\
-I like to read books, cook and draw in my free time :D.\
+I like to read books, cook and draw in my free time :D.
 
 ### Technologies
 
