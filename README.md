@@ -2,7 +2,7 @@
 
 ### About Me
 
-Young IT Student who loves programming, music, games and comics :D\
+Young IT Student who loves programming, music, games and comics :D
 
 I'm working in web technologies but also in Python or C++.\
 My favourite framework is Symfony.\
