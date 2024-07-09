@@ -15,18 +15,18 @@ My website? Stay tuned ;)
 ## Technologies
 <p align="center">
 <img src="https://img.shields.io/badge/PYTHON-32ad4b?style=for-the-badge&logo=python&logoColor=ffffff&logoSize=30px"/>
-<img src=https://img.shields.io/badge/C%2B%2B-4d8dc9?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff&logoSize=30px/>
-<img src=https://img.shields.io/badge/JAVASCRIPT-f0e918?style=for-the-badge&logoSize=30px&logo=javascript&logoColor=030302/>
-<img src=https://img.shields.io/badge/HTML5-ff7105?style=for-the-badge&logo=html5&logoColor=ffffff&logoSize=30px/>
-<img src=https://img.shields.io/badge/CSS-2ae85d?style=for-the-badge&logo=css3&logoColor=ffffff&logoSize=30px/>
-<img src=https://img.shields.io/badge/SYMFONY-40734e?style=for-the-badge&logo=symfony&logoColor=ffffff&logoSize=30px/>
-<img src=https://img.shields.io/badge/MYSQL-3d5ff5?style=for-the-badge&logo=mysql&logoColor=ffffff&logoSize=30px/>
+<img src="https://img.shields.io/badge/C%2B%2B-4d8dc9?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff&logoSize=30px"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-f0e918?style=for-the-badge&logoSize=30px&logo=javascript&logoColor=030302"/>
+<img src="https://img.shields.io/badge/HTML5-ff7105?style=for-the-badge&logo=html5&logoColor=ffffff&logoSize=30px"/>
+<img src="https://img.shields.io/badge/CSS-2ae85d?style=for-the-badge&logo=css3&logoColor=ffffff&logoSize=30px"/>
+<img src="https://img.shields.io/badge/SYMFONY-40734e?style=for-the-badge&logo=symfony&logoColor=ffffff&logoSize=30px"/>
+<img src="https://img.shields.io/badge/MYSQL-3d5ff5?style=for-the-badge&logo=mysql&logoColor=ffffff&logoSize=30px"/>
 </p>
 <p align="center">
-<img src=https://img.shields.io/badge/GIT-ff1428?style=for-the-badge&logo=git&logoColor=ffffff&logoSize=30px/>
-<img src=https://img.shields.io/badge/GITHUB-242426?style=for-the-badge&logo=github&logoColor=ffffff&logoSize=30px/>
-<img src=https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-3838f5?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&logoSize=30px/>
-<img src=https://img.shields.io/badge/PHOTOSHOP-272a73?style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff&logoSize=30px/>
+<img src="https://img.shields.io/badge/GIT-ff1428?style=for-the-badge&logo=git&logoColor=ffffff&logoSize=30px"/>
+<img src="https://img.shields.io/badge/GITHUB-242426?style=for-the-badge&logo=github&logoColor=ffffff&logoSize=30px"/>
+<img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-3838f5?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&logoSize=30px/">
+<img src="https://img.shields.io/badge/PHOTOSHOP-272a73?style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff&logoSize=30px"/>
 </p>
 
 
