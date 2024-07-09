@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://cdn3.emoji.gg/emojis/5961-darkbluetea.gif" width="32px" height="32px" alt="DarkBlueTea"> Hello there. I'm Kacper :D</h1>
-
+<p align="center">
 Young IT Student who loves programming, music, games and comics :D
 
 I'm working in web technologies but also in Python or C++.\
@@ -9,6 +9,7 @@ I'm on track for learning more about other programming languages, cybersecurity 
 I like going to the gym, reading books, cooking and drawing in my free time :D
 
 My website? Stay tuned ;)
+</p>
 
 <h2 align="center">Technologies</h2>
 <p align="center">
