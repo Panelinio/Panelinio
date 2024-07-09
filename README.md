@@ -6,7 +6,7 @@ Young IT Student who loves programming, music, games and comics :D
 
 I'm working in web technologies but also in Python or C++.\
 My favourite framework is Symfony.\
-I'm currently studying Computer Science at the WSB Merito Wrocław and I'm currently working for Konveyor Poland as an IT Technician.\
+I'm currently studying Computer Science at the WSB Merito Wrocław and I'm working for Konveyor Poland as an IT Technician.\
 I'm on track for learning more about other programming languages, cybersecurity and graphic design.\
 I like going to the gym, reading books, cooking and drawing in my free time :D
 
@@ -14,13 +14,12 @@ My website? Stay tuned ;)
 
 ### Technologies
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Python](https://img.shields.io/badge/PYTHON-32ad4b?style=for-the-badge&logo=python&logoColor=ffffff&logoSize=30px)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-4d8dc9?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff&logoSize=30px)\
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-f0e918?style=for-the-badge&logoSize=30px&logo=javascript&logoColor=030302)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=Symfony)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-ff7105?style=for-the-badge&logo=html5&logoColor=ffffff&logoSize=30px)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-2ae85d?style=for-the-badge&logo=css3&logoColor=ffffff&logoSize=30px)&nbsp;
+![Symfony](https://img.shields.io/badge/SYMFONY-40734e?style=for-the-badge&logo=symfony&logoColor=ffffff&logoSize=30px)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
