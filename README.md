@@ -20,11 +20,11 @@ My website? Stay tuned ;)
 ![HTML](https://img.shields.io/badge/HTML5-ff7105?style=for-the-badge&logo=html5&logoColor=ffffff&logoSize=30px)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-2ae85d?style=for-the-badge&logo=css3&logoColor=ffffff&logoSize=30px)&nbsp;
 ![Symfony](https://img.shields.io/badge/SYMFONY-40734e?style=for-the-badge&logo=symfony&logoColor=ffffff&logoSize=30px)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![MySQL](https://img.shields.io/badge/MYSQL-3d5ff5?style=for-the-badge&logo=mysql&logoColor=ffffff&logoSize=30px)&nbsp;\
+![Git](https://img.shields.io/badge/GIT-ff1428?style=for-the-badge&logo=git&logoColor=ffffff&logoSize=30px)&nbsp;
+![GitHub](https://img.shields.io/badge/GITHUB-242426?style=for-the-badge&logo=github&logoColor=ffffff&logoSize=30px)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VISUALSTUDIO-3838f5?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&logoSize=30px)&nbsp;
+![Photoshop](https://img.shields.io/badge/PHOTOSHOP-272a73?style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff&logoSize=30px)&nbsp;
 
 ## GitHub Analytics
 
