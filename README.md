@@ -36,7 +36,7 @@ My website? Stay tuned ;)
 ## GitHub Analytics
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Panelinio&theme=transparent&hide_border=true&card_width=600" alt="GitHub Streak" /></a>
+<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Panelinio&theme=transparent&hide_border=true&card_width=600" alt="GitHub Streak" /></a>
 
 
 ## Contact
