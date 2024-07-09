@@ -13,7 +13,7 @@ I like going to the gym, reading books, cooking and drawing in my free time :D
 My website? Stay tuned ;)
 
 ## Technologies
-
+<p align="center">
 ![Python](https://img.shields.io/badge/PYTHON-32ad4b?style=for-the-badge&logo=python&logoColor=ffffff&logoSize=30px)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-4d8dc9?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff&logoSize=30px)\
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-f0e918?style=for-the-badge&logoSize=30px&logo=javascript&logoColor=030302)&nbsp;
@@ -25,6 +25,8 @@ My website? Stay tuned ;)
 ![GitHub](https://img.shields.io/badge/GITHUB-242426?style=for-the-badge&logo=github&logoColor=ffffff&logoSize=30px)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-3838f5?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&logoSize=30px)&nbsp;
 ![Photoshop](https://img.shields.io/badge/PHOTOSHOP-272a73?style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff&logoSize=30px)&nbsp;
+</p>
+
 
 ## GitHub Analytics
 
