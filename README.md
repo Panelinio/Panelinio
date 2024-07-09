@@ -31,7 +31,6 @@ My website? Stay tuned ;)
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Panelinio&theme=transparent&hide_border=true&card_width=600" alt="GitHub Streak" /></a>
 </p>
-<hr>
 <h2 align="center">Contact</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/kacper-twardowski-a7b0a42a3/"><img src="https://img.shields.io/badge/-Kacper%20Twardowski-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&logoSize=30px"/></a>
