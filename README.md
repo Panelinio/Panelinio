@@ -14,7 +14,7 @@ My website? Stay tuned ;)
 
 ## Technologies
 <p align="center">
-![Python](https://img.shields.io/badge/PYTHON-32ad4b?style=for-the-badge&logo=python&logoColor=ffffff&logoSize=30px)&nbsp;
+<img src="https://img.shields.io/badge/PYTHON-32ad4b?style=for-the-badge&logo=python&logoColor=ffffff&logoSize=30px"/>
 ![C++](https://img.shields.io/badge/C%2B%2B-4d8dc9?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff&logoSize=30px)\
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-f0e918?style=for-the-badge&logoSize=30px&logo=javascript&logoColor=030302)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-ff7105?style=for-the-badge&logo=html5&logoColor=ffffff&logoSize=30px)&nbsp;
