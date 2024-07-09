@@ -36,7 +36,7 @@ My website? Stay tuned ;)
 
 ## Contact
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/kacper-twardowski-a7b0a42a3/"><img src="https://img.shields.io/badge/-Kacper%20Twardowski-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kacper.tw150@gmail.xom"><img src="https://img.shields.io/badge/-kacper.tw150@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/kassper_inst"><img src="https://img.shields.io/badge/-@kassper_inst-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
