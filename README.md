@@ -10,8 +10,7 @@ I'm currently studying Computer Science at the WSB Merito Wrocław and I'm worki
 I'm on track for learning more about other programming languages, cybersecurity and graphic design.\
 I like going to the gym, reading books, cooking and drawing in my free time :D
 
-My website? Stay tuned ;)
-
+My website? Stay tuned ;)\
 
 ## Technologies
 
