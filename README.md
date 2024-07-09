@@ -1,4 +1,4 @@
-<h1><img src="https://cdn3.emoji.gg/emojis/5961-darkbluetea.gif" width="32px" height="32px" alt="DarkBlueTea"> Hello there. I'm Kacper :D</h1>
+<h1 align="center"><img src="https://cdn3.emoji.gg/emojis/5961-darkbluetea.gif" width="32px" height="32px" alt="DarkBlueTea"> Hello there. I'm Kacper :D</h1>
 
 Young IT Student who loves programming, music, games and comics :D
 
