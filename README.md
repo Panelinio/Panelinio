@@ -23,7 +23,7 @@ My website? Stay tuned ;)
 ![MySQL](https://img.shields.io/badge/MYSQL-3d5ff5?style=for-the-badge&logo=mysql&logoColor=ffffff&logoSize=30px)&nbsp;\
 ![Git](https://img.shields.io/badge/GIT-ff1428?style=for-the-badge&logo=git&logoColor=ffffff&logoSize=30px)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-242426?style=for-the-badge&logo=github&logoColor=ffffff&logoSize=30px)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/VISUALSTUDIO-3838f5?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&logoSize=30px)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VISUAL%STUDIO-3838f5?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&logoSize=30px)&nbsp;
 ![Photoshop](https://img.shields.io/badge/PHOTOSHOP-272a73?style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff&logoSize=30px)&nbsp;
 
 ## GitHub Analytics
