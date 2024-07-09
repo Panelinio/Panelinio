@@ -12,7 +12,10 @@ I like going to the gym, reading books, cooking and drawing in my free time :D
 
 My website? Stay tuned ;)
 
+
 ## Technologies
+
+
 <p align="center">
 <img src="https://img.shields.io/badge/PYTHON-32ad4b?style=for-the-badge&logo=python&logoColor=ffffff&logoSize=30px"/>
 <img src="https://img.shields.io/badge/C%2B%2B-4d8dc9?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff&logoSize=30px"/>
@@ -32,13 +35,16 @@ My website? Stay tuned ;)
 
 ## GitHub Analytics
 
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Panelinio&theme=shadow-blue)](https://git.io/streak-stats)
+
 
 ## Contact
 
+
 <p align="center">
-<a href="https://www.linkedin.com/in/kacper-twardowski-a7b0a42a3/"><img src="https://img.shields.io/badge/-Kacper%20Twardowski-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:kacper.tw150@gmail.xom"><img src="https://img.shields.io/badge/-kacper.tw150@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/kassper_inst"><img src="https://img.shields.io/badge/-@kassper_inst-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kacper-twardowski-a7b0a42a3/"><img src="https://img.shields.io/badge/-Kacper%20Twardowski-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&logoSize=30px"/></a>
+<a href="mailto:kacper.tw150@gmail.xom"><img src="https://img.shields.io/badge/-kacper.tw150@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&logoSize=30px"/></a>
+<a href="https://instagram.com/kassper_inst"><img src="https://img.shields.io/badge/-@kassper_inst-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&logoSize=30px"/></a>
 </p>
 
