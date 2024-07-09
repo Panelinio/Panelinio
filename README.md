@@ -1,6 +1,6 @@
-## Hello there. I'm Kacper :D
+# Hello there. I'm Kacper :D
 
-### About Me
+## About Me
 
 Young IT Student who loves programming, music, games and comics :D
 
@@ -12,7 +12,7 @@ I like going to the gym, reading books, cooking and drawing in my free time :D
 
 My website? Stay tuned ;)
 
-### Technologies
+## Technologies
 
 ![Python](https://img.shields.io/badge/PYTHON-32ad4b?style=for-the-badge&logo=python&logoColor=ffffff&logoSize=30px)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-4d8dc9?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff&logoSize=30px)\
@@ -26,11 +26,11 @@ My website? Stay tuned ;)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-### GitHub Analytics
+## GitHub Analytics
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Panelinio&theme=shadow-blue)](https://git.io/streak-stats)
 
-### Contact
+## Contact
 
 <p align="left">
 <a href="https://www.linkedin.com/in/kacper-twardowski-a7b0a42a3/"><img src="https://img.shields.io/badge/-Kacper%20Twardowski-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
