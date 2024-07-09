@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there. I'm Kacper :D</h1>
 
-## About me
+### About me
 
 Young IT Student who loves programming, music, games and comics :D
 
