@@ -1,8 +1,6 @@
 # Hello there. I'm Kacper :D
 
-<p align="center">
-  ## About me
-</p>
+## About me
 
 Young IT Student who loves programming, music, games and comics :D
 
