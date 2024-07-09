@@ -21,6 +21,8 @@ My website? Stay tuned ;)
 <img src=https://img.shields.io/badge/CSS-2ae85d?style=for-the-badge&logo=css3&logoColor=ffffff&logoSize=30px/>
 <img src=https://img.shields.io/badge/SYMFONY-40734e?style=for-the-badge&logo=symfony&logoColor=ffffff&logoSize=30px/>
 <img src=https://img.shields.io/badge/MYSQL-3d5ff5?style=for-the-badge&logo=mysql&logoColor=ffffff&logoSize=30px/>
+</p>
+<p align="center">
 <img src=https://img.shields.io/badge/GIT-ff1428?style=for-the-badge&logo=git&logoColor=ffffff&logoSize=30px/>
 <img src=https://img.shields.io/badge/GITHUB-242426?style=for-the-badge&logo=github&logoColor=ffffff&logoSize=30px/>
 <img src=https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-3838f5?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&logoSize=30px/>
