@@ -1,6 +1,6 @@
 # Hello there. I'm Kacper :D
 
-<p align="center" style="font-size:4em;">
+<p align="center" style="font-size:50px;">
   About me
 </p>
 
