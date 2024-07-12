@@ -1,12 +1,12 @@
 <h1 align="center"><img src="https://cdn3.emoji.gg/emojis/5961-darkbluetea.gif" width="32px" height="32px" alt="DarkBlueTea"> Hello there. I'm Kacper :D</h1>
 
-<p align="center">Young IT Student who loves programming, music, games and comics :D</p>
-<p align="center">I'm working in web technologies but also in Python or C++.</p>
-<p align="center">My favourite framework is Symfony.</p>
-<p align="center">I'm currently studying Computer Science at the WSB Merito Wrocław and I'm working for Konveyor Poland as an IT Technician.</p>
-<p align="center">I'm on track for learning more about other programming languages, cybersecurity and graphic design.</p>
-<p align="center">I like going to the gym, reading books, cooking and drawing in my free time :D</p><br>
-<p align="center">My website? Stay tuned ;)</p>
+<p>Young IT Student who loves programming, music, games and comics :D</p>
+<p >I'm working in web technologies but also in Python or C++.</p>
+<p >My favourite framework is Symfony.</p>
+<p >I'm currently studying Computer Science at the WSB Merito Wrocław and I'm working for Konveyor Poland as an IT Technician.</p>
+<p >I'm on track for learning more about other programming languages, cybersecurity and graphic design.</p>
+<p >I like going to the gym, reading books, cooking and drawing in my free time :D</p><br>
+<p >My website? Stay tuned ;)</p>
 
 </p>
 
