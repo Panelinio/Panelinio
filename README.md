@@ -35,6 +35,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/kacper-twardowski-a7b0a42a3/"><img src="https://img.shields.io/badge/-Kacper%20Twardowski-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&logoSize=30px"/></a>
 <a href="mailto:kacper.tw150@gmail.com"><img src="https://img.shields.io/badge/-kacper.tw150@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&logoSize=30px"/></a>
-<a href="https://instagram.com/_ktwardowski.art_"><img src="https://img.shields.io/badge/-@_ktwardowski.art_-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&logoSize=30px"/></a>
+<a href="https://instagram.com/_ktwardowski_"><img src="https://img.shields.io/badge/-@_ktwardowski_-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&logoSize=30px"/></a>
 </p>
 
