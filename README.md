@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-3838f5?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&logoSize=30px/">
 <img src="https://img.shields.io/badge/PHOTOSHOP-272a73?style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff&logoSize=30px"/>
 </p>
+
 ![Cybersecurity Badge](./Badges/introduction-to-cybersecurity.png)
 
 <h2 align="center">GitHub Analytics</h2>
