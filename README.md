@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-3838f5?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&logoSize=30px/">
 <img src="https://img.shields.io/badge/PHOTOSHOP-272a73?style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff&logoSize=30px"/>
 </p>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2150b8c4-aab0-446d-8036-922e74efa5fa" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <h2 align="center">GitHub Analytics</h2>
 <p align="center">
