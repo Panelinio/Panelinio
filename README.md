@@ -26,7 +26,8 @@
 <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-3838f5?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&logoSize=30px/">
 <img src="https://img.shields.io/badge/PHOTOSHOP-272a73?style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff&logoSize=30px"/>
 </p>
-<img src="https://www.credly.com/badges/2150b8c4-aab0-446d-8036-922e74efa5fa/public_url"/>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <h2 align="center">GitHub Analytics</h2>
 <p align="center">
