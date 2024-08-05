@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/GITHUB-242426?style=for-the-badge&logo=github&logoColor=ffffff&logoSize=30px"/>
 <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-3838f5?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&logoSize=30px/">
 <img src="https://img.shields.io/badge/PHOTOSHOP-272a73?style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff&logoSize=30px"/>
+<img src="https://img.shields.io/badge/ASTRO-37147c?style=for-the-badge&logo=astro&logoColor=ffffff&logoSize=30px"/>
 </p>
 
 ![Cybersecurity Badge](./Badges/introduction-to-cybersecurity.png)
