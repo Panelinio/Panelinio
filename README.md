@@ -6,7 +6,7 @@
 <p >I'm currently studying Computer Science at the WSB Merito Wrocław and I'm working for Konveyor Poland as an IT Technician.</p>
 <p >I'm on track for learning more about other programming languages, cybersecurity and graphic design.</p>
 <p >I like going to the gym, reading books, cooking and drawing in my free time :D</p><br>
-<p >Here is my [website](https://panelinio.github.io/ktwardowski/)</p>
+Here is my [website](https://panelinio.github.io/ktwardowski/)
 
 </p>
 
