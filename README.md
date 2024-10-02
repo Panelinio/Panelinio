@@ -1,16 +1,16 @@
 <h1 align="center"><img src="https://cdn3.emoji.gg/emojis/5961-darkbluetea.gif" width="32px" height="32px" alt="DarkBlueTea"> Hello there. I'm Kacper :D</h1>
 
-<p>Young IT Student who loves programming, music, games and comics :D</p>
+<p>Young IT Student who loves programming, music, games, and comics :D</p>
 <p >I'm working in web technologies but I'm also learning Python and C++.</p>
 <p >My favourite framework is Symfony.</p>
 <p >I'm currently studying Computer Science at the WSB Merito Wrocław and I'm working for Konveyor Poland as an IT Technician.</p>
-<p >I'm on track for learning more about other programming languages, cybersecurity and graphic design.</p>
-<p >I like going to the gym, reading books, cooking and drawing in my free time :D</p><br>
+<p >I'm on track to learn more about other programming languages, cybersecurity, and graphic design.</p>
+<p >I like going to the gym, reading books, cooking, and drawing in my free time :D</p><br>
 Here is my website: https://panelinio.github.io/ktwardowski/
 
 </p>
 
-<h2 align="center">Technologies</h2>
+<h2 align="center">Technologies | Badges</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/PYTHON-32ad4b?style=for-the-badge&logo=python&logoColor=ffffff&logoSize=30px"/>
 <img src="https://img.shields.io/badge/C%2B%2B-4d8dc9?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff&logoSize=30px"/>
@@ -29,6 +29,8 @@ Here is my website: https://panelinio.github.io/ktwardowski/
 </p>
 
 ![Cybersecurity Badge](./Badges/introduction-to-cybersecurity.png)
+
++
 [![@Panelinio Astro contributions](https://astro.badg.es/v2/contributor/Panelinio.svg)](https://astro.badg.es/contributor/Panelinio/)
 
 <h2 align="center">GitHub Analytics</h2>
