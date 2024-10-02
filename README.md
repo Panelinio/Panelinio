@@ -33,6 +33,9 @@ Here is my website: https://panelinio.github.io/ktwardowski/
 +
 [![@Panelinio Astro contributions](https://astro.badg.es/v2/contributor/Panelinio.svg)](https://astro.badg.es/contributor/Panelinio/)
 
++
+[![@panelinio's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@panelinio)
+
 <h2 align="center">GitHub Analytics</h2>
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Panelinio&theme=transparent&hide_border=true&card_width=600" alt="GitHub Streak" /></a>
