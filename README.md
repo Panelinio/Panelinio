@@ -29,6 +29,7 @@ Here is my website: https://panelinio.github.io/ktwardowski/
 </p>
 
 ![Cybersecurity Badge](./Badges/introduction-to-cybersecurity.png)
+[![@Panelinio Astro contributions](https://astro.badg.es/v2/contributor/Panelinio.svg)](https://astro.badg.es/contributor/Panelinio/)
 
 <h2 align="center">GitHub Analytics</h2>
 <p align="center">
