@@ -34,7 +34,7 @@ Here is my website: https://panelinio.github.io/ktwardowski/
 [![@Panelinio Astro contributions](https://astro.badg.es/v2/contributor/Panelinio.svg)](https://astro.badg.es/contributor/Panelinio/)
 
 +
-[![@panelinio's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@panelinio)
+[![An image of @panelinio's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/panelinio)](https://holopin.io/@panelinio)
 
 <h2 align="center">GitHub Analytics</h2>
 <p align="center">
